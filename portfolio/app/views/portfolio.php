@@ -65,7 +65,7 @@
                     <img src="<?=ROOT?><?=$row->image1?>" alt="" class="thumb">
                     <h3 class="title"><?=$row->title?></h3>
                     <div class="flex-btn">
-                        <a target="_blank" href="<?=$row->link?>" class="btn">Live (Demo)</a>
+                        <a target="_blank" href="https://github.com/mesesotera" class="btn">View on github</a>
                         <a href="<?=ROOT?>home/details/<?=$row->id?>" class="btn">view project</a>
                     </div>
                 </div>
